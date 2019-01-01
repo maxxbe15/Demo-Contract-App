@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": 697,
+      "createdTs": "2016-12-19T19:43:25.036704Z",
+      "updatedTs": "2016-12-19T19:43:25.036750Z",
+      "name": "Ashly O'Hara",
+      "email": "hilton_reichel@troy.net",
+      "sex": "M",
+      "birthdate": "1973-07-01T04:23:31.036240Z",
+      "phonenumber": "1-8106-122-6925",
+      "address": "1379 Zulauf Well",
+      "city": "Walkerborough",
+      "country": "Wales",
+      "photo": "https://randomuser.me/api/portraits/men/40.jpg",
+      "favorite": false
+    },
+    {
+      "id": 695,
+      "createdTs": "2016-12-19T19:43:25.031640Z",
+      "updatedTs": "2016-12-19T19:43:25.031670Z",
+      "name": "Bell Schaefer",
+      "email": "jade@raphael.info",
+      "sex": "M",
+      "birthdate": "1981-02-11T08:35:53.031223Z",
+      "phonenumber": "1-1009-265-3975 x0010",
+      "address": "89579 Koepp Roads",
+      "city": "D'Amoreland",
+      "country": "England",
+      "photo": "https://randomuser.me/api/portraits/men/38.jpg",
+      "favorite": false
+    }
+  ]
+}
