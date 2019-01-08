@@ -1,6 +1,6 @@
 # Demo-Contract-App
 
-This the sample project by Mohammed Haliljaru <m.haliljaru@gmail.com>
+This the sample project by Shamil Nabiyev <smlnbyv@gmail.com>
 
 ## Setup
 
